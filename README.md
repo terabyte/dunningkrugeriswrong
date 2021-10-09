@@ -24,6 +24,14 @@ This recent (2021) study failed to find evidence for DK across a wide variety of
 
 Question answerer cites many studies and notes that all suffer from similar claims of analysis artifacts, calling the results into question.
 
+## https://skepchick.org/2020/10/the-dunning-kruger-effect-misunderstood-misrepresented-overused-and-non-existent/
+
+Skepchick has a complete (and fascinating) writeup about it
+
+# Original Dunning-Kruger Results
+
+![DK results](images/orig.jpeg)
+
 # Results
 
 Pretty much every time you run this thing, it produces a graph that looks *identical* to the graph from the original study.
