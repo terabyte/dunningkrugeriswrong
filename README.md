@@ -14,6 +14,16 @@ considerable scientitic scrutiny.
 
 The above article calls all of that into question.  To convince myself the article has a valid claim, and since not too many details were given, I decided to try to replicate the claims and produce random data and observe the Dunning-Kruger effect myself.  Furthermore, if I could create a simple, easy-to-understand Python script that anyone could run and see the results for themselves, that seems like a good use of my time!
 
+# Additional Research:
+
+## https://www.openpsych.net/files/papers/Kirkegaard_2021c.pdf
+
+This recent (2021) study failed to find evidence for DK across a wide variety of online test takers (n=2413)
+
+## https://psychology.stackexchange.com/a/26553
+
+Question answerer cites many studies and notes that all suffer from similar claims of analysis artifacts, calling the results into question.
+
 # Results
 
 Pretty much every time you run this thing, it produces a graph that looks *identical* to the graph from the original study.
